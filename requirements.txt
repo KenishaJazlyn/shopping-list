@@ -3,5 +3,5 @@ gunicorn
 whitenoise
 psycopg2-binary
 requests
-django-environ
 urllib3
+django-environ
